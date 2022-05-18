@@ -1,0 +1,1 @@
+# openapi-dynamoose-schema-generator
